@@ -2,7 +2,7 @@
 ### Show
 ![](https://github.com/hyhouyong/muti-output-classification/blob/master/output/keras_multi_label_animation.gif)<br>
 ### DataSet
-1[](https://github.com/hyhouyong/muti-output-classification/blob/master/output/3.jpg)
+![](https://github.com/hyhouyong/muti-output-classification/blob/master/output/3.jpg)
 ### Model:
 ![](https://github.com/hyhouyong/muti-output-classification/blob/master/output/2.png)
 ### Train:

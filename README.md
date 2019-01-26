@@ -1,4 +1,5 @@
 ## muti-output-classification
+![](https://github.com/hyhouyong/muti-output-classification/blob/master/output/1.png)<br>
 ![](https://github.com/hyhouyong/muti-output-classification/blob/master/output/output_accs.png)<br>
 ![](https://github.com/hyhouyong/muti-output-classification/blob/master/output/output_losses.png)
 ## Train:

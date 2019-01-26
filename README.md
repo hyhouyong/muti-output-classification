@@ -9,4 +9,6 @@
         
 ## Test:
         python classify.py --model output/fashion.model --categorybin output/category_lb.pickle --colorbin output/color_lb.pickle --image examples/black_dress.jpg
+## Reference
+        https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/
 
